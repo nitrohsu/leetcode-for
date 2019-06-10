@@ -1,17 +1,11 @@
+import model.TreeNode;
+
 /**
  * Created by N2Hsu on 6/10/2019.
  */
 public class _938RangeSumOfDST {
 
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 
     class Solution {
         int sum = 0;

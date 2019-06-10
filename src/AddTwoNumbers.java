@@ -1,3 +1,5 @@
+import model.ListNode;
+
 /**
  * Created by N2Hsu on 6/6/2019.
  */
@@ -20,14 +22,6 @@ public class AddTwoNumbers {
         }
     }
 
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 
     static class Solution {
         public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
-public class TwoSum {
+public class _001TwoSum {
     static class Solution {
         public int[] twoSum(int[] nums, int target) {
 

@@ -1,4 +1,4 @@
-package model;
+package com.nitrohsu.leetcodefor.model;
 
 /**
  * Created by N2Hsu on 6/10/2019.

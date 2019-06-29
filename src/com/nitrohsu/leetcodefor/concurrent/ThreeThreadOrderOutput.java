@@ -1,3 +1,5 @@
+package com.nitrohsu.leetcodefor.concurrent;
+
 import sun.misc.ConditionLock;
 
 import java.util.concurrent.locks.ReentrantLock;
